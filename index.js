@@ -13,7 +13,7 @@ async function main() {
         `Hi ${ctx.message.from.first_name},\n\nI can Download Files from Terabox.\nPLEASE MUST JOIN TELEGRAM CHANNEL TO DOWNLOAD VIDEOS\n\nMade with ❤️ by @Cyberlookp\n\nSend any terabox link to download.`,
         Markup.inlineKeyboard([
           Markup.button.url(" Channel", "https://t.me/+dfzw23HzsMo4NDll"),
-          Markup.button.url("Report bug", "@REPORT_TeraDownloader_bot"),
+          Markup.button.url("Report bug", "https://t.me/Cyberlookp"),
         ]),
       );
     } catch (e) {
