@@ -1,5 +1,2 @@
-node_modules/
-.upm/
-
-test.js
-
+.env
+Shikari.session
