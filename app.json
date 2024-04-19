@@ -12,15 +12,15 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH Get it from my.telegram.org",
-            "value": ""
+            "value": "fcc34c33b9dc076c8f394a0ad4404c94"
         },
         "API_ID": {
             "description": "Your API ID Get it from my.telegram.org",
-            "value": ""
+            "value": "28166646"
         },
         "BOT_TOKEN": {
             "description": "Bot Token, Get it from @BotFather.",
-            "value": ""
+            "value": "6409603524:AAGQOacRC2wB9iDrx-0ky1F39kVjiFyRuiU"
         },
         "CHANNEL": {
             "description": "Your Channel @username for force join.",
