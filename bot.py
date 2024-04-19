@@ -30,10 +30,10 @@ appid = apihash = bottoken = None
 # start the bot
 print("Starting...")
 try:
-    apiid = config("28166646", cast=int)
-    apihash = config("fcc34c33b9dc076c8f394a0ad4404c94")
-    bottoken = config("6409603524:AAGQOacRC2wB9iDrx-0ky1F39kVjiFyRuiU")
-    xchannel = config("https://t.me/+dfzw23HzsMo4NDll")
+    apiid = config("API_ID", cast=int)
+    apihash = config("API_HASH")
+    bottoken = config("BOT_TOKEN")
+    xchannel = config("CHANNEL")
     welcome_msg = config("WELCOME_MSG")
     welcome_not_joined = config("WELCOME_NOT_JOINED")
     on_join = config("ON_JOIN", cast=bool)
